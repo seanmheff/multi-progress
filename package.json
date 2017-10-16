@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/pitaj/multi-progress",
   "dependencies": {
-    "progress": "github:lbeschastny/node-progress"
+    "progress": "github:lbeschastny/node-progress#formatter"
   }
 }
